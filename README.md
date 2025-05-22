@@ -67,11 +67,12 @@
 ---
 
 ## 📸 Visualizations Included
-
-* Class distribution pie chart
-* Boxplots comparing V14, V10, V17 feature distributions by transaction class
-* Histogram of fraud occurrences by hour of day
-* Correlation heatmap of key features and fraud class
+![output](https://github.com/user-attachments/assets/0ad5b67b-5f99-463b-9ef9-594ee4825f89)
+![output4](https://github.com/user-attachments/assets/8cdd49fb-901c-4ffe-9ddc-57e8d8447290)
+![output3](https://github.com/user-attachments/assets/207d1bad-d4ee-4e59-89b0-4b685de58b2b)
+![output2](https://github.com/user-attachments/assets/cce0aecf-ffa2-411a-a27c-ac9a0ef9f315)
+![output6](https://github.com/user-attachments/assets/ff7f59bb-9b1e-44d9-adef-ddf660bab1ac)
+![output5](https://github.com/user-attachments/assets/57332e59-8afa-4316-a4be-152ccdb3cbdb)
 
 ---
 
@@ -83,18 +84,6 @@
 
 ---
 
-## 📂 Project Files
-
-* `card_swipe_analysis.ipynb` — Jupyter notebook with full exploratory data analysis
-* `visualizations/` — Folder containing all charts and graphs
-* `data/` — (Link or instructions to download dataset if public)
-
----
-
 ## 🙌 Acknowledgements
 
 Dataset inspired by [Kaggle Credit Card Fraud Detection Dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud).
-
----
-
-Feel free to copy this directly or ask me if you want me to tailor it with badges, contribution guidelines, or install instructions! Would you like help drafting those too?
